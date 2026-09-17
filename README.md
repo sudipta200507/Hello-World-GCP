@@ -1,2 +1,1 @@
-# Hello-World-GCP
-Hello World GCP
+# Hello-World-Local-GCP
